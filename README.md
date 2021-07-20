@@ -7,11 +7,11 @@ Your team is submitting a design document that should include solid plans for ap
 ### Project Title and Team
 Include names and email addresses of all people on this project team.
 
-### Infovis Solution [5 pages]
+### Infovis Solution [4 pages + poster]
 You should propose an infovis solution that clearly shows you have spent some time exploring the design space. To this end, you will follow the [five sheet design method](http://fds.design/). Each sheet serves a specific purpose. We will spend some time in class discussing this method. Note: You do not have to use the templates that are provided, but your individual pages should contain the same general content.
 
 #### Sheet 1: Brainstorming
-The idea of brain‐=storming is to enlarge the design space of possibilities. There should be a focus on quantity – to generate as many designs as you can think of. This should be a group activity. Once you have these ideas, filter down to the most promising ones, categorize them, attempt to merge them into more powerful view combinations. [\[Detailed Description\]]( http://fds.design/index.php/2015/06/25/sheet-1-brain-storm/)
+The idea of brainstorming is to enlarge the design space of possibilities. There should be a focus on quantity – to generate as many designs as you can think of. This should be a group activity. Once you have these ideas, filter down to the most promising ones, categorize them, attempt to merge them into more powerful view combinations. [\[Detailed Description\]]( http://fds.design/index.php/2015/06/25/sheet-1-brain-storm/)
 
 #### Sheets 2, 3, 4: Details for Three Separate Ideas
 The three individual design sheets are to record three ideas from the initial brainstorming exercise. You should choose your three most promising ideas to expand with more detail. These individual sheets can be done with your group or assigned to individual members to complete on their own. These include a general layout or wireframe for the visualization method, details for how the visualization system works, a description of the interactions available to the user (buttons, drop downs, query boxes, etc.), and a discussion of the benefits and challenges of the chosen technique. I want to know who did what - there should be space on each sheet for the name of the person(s) who worked on that particular design. [\[Detailed Description\]](http://fds.design/index.php/2015/06/25/sheet-2-3-4-initial-designs/)
