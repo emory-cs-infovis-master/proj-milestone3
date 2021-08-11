@@ -25,18 +25,11 @@ This sheet should be designed as a *digital poster*. This poster should be a sta
 One design document per project team is due at the start of class on the due date as a submission to your team's repository for this milestone. Submissions should be in pdf form, no more than five pages long. You should include scans or high-resolution images of the first four sheets in a pdf. Your digital poster should be included in a separate PDF. The poster will be briefly presented and discussed in class to receive feedback from the instructor and from your classmates.
 
 ## Grading: 
-[5%] Project title and team 
-
-[10%] Sheet 1
-
-[10%] Sheet 2
-
-[10%] Sheet 3
-
-[10%] Sheet 4
-
-[20%] Sheet 5
-
-[30%] In-class poster presentation 
-
-[5%] Document formatting
+- [5%] Project title and team 
+- [10%] Sheet 1
+- [10%] Sheet 2
+- [10%] Sheet 3
+- [10%] Sheet 4
+- [20%] Sheet 5
+- [30%] In-class poster presentation 
+- [5%] Document formatting
