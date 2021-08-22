@@ -26,10 +26,11 @@ One design document per project team is due at the start of class on the due dat
 
 ## Grading: 
 - [5%] Project title and team 
-- [10%] Sheet 1
-- [10%] Sheet 2
-- [10%] Sheet 3
-- [10%] Sheet 4
-- [20%] Sheet 5
-- [30%] In-class poster presentation 
+- [8%] Sheet 1
+- [8%] Sheet 2
+- [8%] Sheet 3
+- [8%] Sheet 4
+- [18%] Sheet 5
+- [30%] In-class poster presentation
+- [10%] Peer feedback 
 - [5%] Document formatting
